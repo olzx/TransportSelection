@@ -1,0 +1,19 @@
+.button {
+    font-family: dinDisplay;
+    color: #fff;
+    border: 1px solid #333337;
+    padding: 4px 12px 4px 12px;
+    text-align: center;
+    background-color: #1C1C20;
+}
+
+.button:hover {
+    border-color: #FF940C;
+    background-color: #FF940C;
+    cursor: pointer;
+}
+
+.button_active {
+    border-color: #FF940C;
+    background-color: #FF940C;
+}
